@@ -1,0 +1,3 @@
+VSCODE EXTENSIONS
+-live server 
+-material theme icons
